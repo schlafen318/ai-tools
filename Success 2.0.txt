@@ -1,0 +1,918 @@
+downloads/Success 2.0: Getting to the Top and Staying There.mp3
+audio local path: /content/downloads/Success 2.0: Getting to the Top and Staying There.mp3
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:03.000]  This is Hidden Brain. I'm Shankar Vedantam.
+[00:05.000 --> 00:10.000]  In the late 16th century, a playwright named Thomas Kidd wrote a tragedy.
+[00:10.000 --> 00:14.000]  It was about an aristocrat who seeks revenge after his son is murdered.
+[00:14.000 --> 00:19.000]  Murder! Murder! Help! We're under murder! Help!
+[00:19.000 --> 00:20.000]  Come, stop her mouth!
+[00:20.000 --> 00:21.000]  Away with her!
+[00:21.000 --> 00:26.000]  The play was called The Spanish Tragedy, and it is still produced occasionally today.
+[00:26.000 --> 00:31.000]  What outcries plucked me from my naked bed, and chilled my throbbing heart with trembling fear,
+[00:31.000 --> 00:33.000]  which never danger yet could daunt before.
+[00:37.000 --> 00:40.000]  Thomas Kidd's play was popular in its day.
+[00:40.000 --> 00:45.000]  But unless you're an Elizabethan scholar, you probably haven't heard of the playwright.
+[00:45.000 --> 00:48.000]  You may have heard about one of his contemporaries, though.
+[00:48.000 --> 00:50.000]  William Shakespeare.
+[00:50.000 --> 00:54.000]  As Thomas Kidd's career flatlined after The Spanish Tragedy,
+[00:54.000 --> 00:58.000]  Shakespeare wrote masterpiece after masterpiece.
+[00:58.000 --> 00:59.000]  Alas, poor Yorick.
+[00:59.000 --> 01:00.000]  Tragedies.
+[01:00.000 --> 01:01.000]  I knew you, Mauritius.
+[01:01.000 --> 01:03.000]  Followed by comedies.
+[01:03.000 --> 01:06.000]  Reason and love keep little company together nowadays.
+[01:06.000 --> 01:08.000]  Followed by historical dramas and more.
+[01:08.000 --> 01:14.000]  Love is not love which alters when its alteration finds or bends with the remover to remove.
+[01:15.000 --> 01:19.000]  Shakespeare's plays have been translated into dozens of languages.
+[01:19.000 --> 01:23.000]  They continue to be performed 400 years after he wrote them.
+[01:23.000 --> 01:27.000]  Even more than that, his words have become so much a part of our lives
+[01:27.000 --> 01:30.000]  that we all quote him without realizing it.
+[01:30.000 --> 01:33.000]  Love is blind comes from Shakespeare.
+[01:33.000 --> 01:35.000]  So does faint-hearted.
+[01:35.000 --> 01:37.000]  And sea change.
+[01:37.000 --> 01:39.000]  And too much of a good thing.
+[01:39.000 --> 01:44.000]  When you say, all that glitters isn't gold, or there's method in his madness,
+[01:44.000 --> 01:46.000]  you're quoting Shakespeare.
+[01:47.000 --> 01:52.000]  What explains the gulf between Thomas Kidd's one-hit-wonder playwriting career
+[01:52.000 --> 01:55.000]  and William Shakespeare's sustained success?
+[01:55.000 --> 02:01.000]  And what explains the similar chasms we see between performers in many domains today,
+[02:01.000 --> 02:05.000]  in art and in sports and in music?
+[02:05.000 --> 02:07.000]  What makes Shakespeare Shakespeare?
+[02:07.000 --> 02:10.000]  Or Michael Jordan, Michael Jordan?
+[02:10.000 --> 02:13.000]  Or Taylor Swift, Taylor Swift?
+[02:13.000 --> 02:17.000]  This week on Hidden Brain, we wrap up our series Success 2.0
+[02:17.000 --> 02:21.000]  with new research that aims to unpack a mystery.
+[02:21.000 --> 02:26.000]  What's the secret to repeated and enduring success?
+[02:44.000 --> 02:50.000]  In a number of fields of human performance, success is distributed very unevenly.
+[02:50.000 --> 02:54.000]  Mathematicians call these power law distributions.
+[02:54.000 --> 02:57.000]  If you look at all the accomplishments in a given field,
+[02:57.000 --> 03:01.000]  Emmy Awards, Super Bowl championships, hit plays,
+[03:01.000 --> 03:06.000]  a handful of superstars account for a disproportionate share of the spoils.
+[03:06.000 --> 03:09.000]  The rest of us are lucky to even have fleeting success.
+[03:09.000 --> 03:13.000]  Most writers, for example, never get their books published.
+[03:13.000 --> 03:17.000]  Of the ones that do, a small number become bestsellers.
+[03:17.000 --> 03:20.000]  And among the writers who produce bestsellers,
+[03:20.000 --> 03:25.000]  a very tiny fraction go on to produce lots and lots of bestsellers.
+[03:25.000 --> 03:29.000]  The bestsellers are the ones who have the most success.
+[03:29.000 --> 03:33.000]  Most basketball players never end up in the NBA.
+[03:33.000 --> 03:37.000]  But of those who do, a small number become stars,
+[03:37.000 --> 03:41.000]  and a very tiny fraction of those become household names.
+[03:41.000 --> 03:46.000]  Well, you might say, I know why Shakespeare and Taylor Swift are so popular.
+[03:46.000 --> 03:50.000]  They're really talented. Or they were really lucky.
+[03:50.000 --> 03:54.000]  Well, the cast of Shakespeare and Taylor Swift is a very good example.
+[03:55.000 --> 03:59.000]  But the chasm between total obscurity and being a one-hit wonder,
+[03:59.000 --> 04:03.000]  and the chasm between being a one-hit wonder and those who have sustained success,
+[04:03.000 --> 04:09.000]  is so great that luck and talent seem like incomplete explanations.
+[04:09.000 --> 04:14.000]  Across many domains, from entertainment to sports to technology,
+[04:14.000 --> 04:17.000]  there are performers, creators, and innovators
+[04:17.000 --> 04:20.000]  who seem to have an instinct for greatness.
+[04:20.000 --> 04:22.000]  What can we learn from them?
+[04:24.000 --> 04:28.000]  Today, we'll explore the psychology of creativity and success
+[04:28.000 --> 04:32.000]  by examining the stories of two filmmakers whose work you know.
+[04:32.000 --> 04:36.000]  Their story begins some 50 years ago.
+[04:44.000 --> 04:46.000]  In the summer of 1950,
+[04:47.000 --> 04:49.000]  in the summer of 1977,
+[04:49.000 --> 04:53.000]  a quirky sci-fi film became a global phenomenon.
+[04:53.000 --> 04:57.000]  Star Wars was a story about an intergalactic civil war.
+[04:57.000 --> 05:01.000]  It was packed with lots of drama and even more action.
+[05:01.000 --> 05:03.000]  I'm Luke Skywalker. I'm here to rescue you.
+[05:03.000 --> 05:04.000]  You're who?
+[05:04.000 --> 05:07.000]  I'm here to rescue you. I've got your R2 unit. I'm here with Ben Kenobi.
+[05:07.000 --> 05:08.000]  Ben Kenobi? Where is he?
+[05:08.000 --> 05:09.000]  Come on.
+[05:09.000 --> 05:13.000]  There were aliens, spaceships, lightsabers,
+[05:13.000 --> 05:16.000]  and, of course, there was the Force,
+[05:16.000 --> 05:19.000]  a mysterious energy that bound the universe.
+[05:19.000 --> 05:23.000]  The Force will be with you always.
+[05:23.000 --> 05:27.000]  The movie earned over $400 million.
+[05:27.000 --> 05:31.000]  Its writer, director, and proprietor, George Lucas,
+[05:31.000 --> 05:35.000]  was a graduate of the film school at the University of Southern California.
+[05:35.000 --> 05:40.000]  After his massive success, he began planning the sequel to Star Wars.
+[05:40.000 --> 05:45.000]  The movie was titled The Empire Strikes Back.
+[05:45.000 --> 05:49.000]  George Lucas wanted to build an entire franchise around Star Wars,
+[05:49.000 --> 05:52.000]  but he didn't want to direct the sequel himself.
+[05:52.000 --> 05:55.000]  He set his heart on an alternate director,
+[05:55.000 --> 06:00.000]  a professor at USC who had made an impression on him in film school.
+[06:00.000 --> 06:02.000]  There was just one problem.
+[06:02.000 --> 06:05.000]  The professor wasn't a Star Wars fan.
+[06:05.000 --> 06:09.000]  In fact, Irvin Kershner thought George Lucas was a fan of Star Wars.
+[06:09.000 --> 06:12.000]  But George Lucas was out of his mind.
+[06:12.000 --> 06:16.000]  He had formed this impression before the original movie was released,
+[06:16.000 --> 06:19.000]  when he sat in on a viewing.
+[06:19.000 --> 06:22.000]  In an interview with Hollywood's master storytellers,
+[06:22.000 --> 06:26.000]  Irvin Kershner described seeing George Lucas' creation for the very first time.
+[06:26.000 --> 06:28.000]  We thought, this is terrible.
+[06:28.000 --> 06:31.000]  This is dreadful. What's he doing? He's crazy.
+[06:31.000 --> 06:33.000]  It's a comic book.
+[06:33.000 --> 06:37.000]  People jumping around, hanging around, these odd creatures.
+[06:37.000 --> 06:40.000]  God, he's going to lose his shirt in this.
+[06:40.000 --> 06:43.000]  Fox is financing this piece of junk?
+[06:43.000 --> 06:46.000]  We were sick for George. Sick.
+[06:49.000 --> 06:52.000]  Of course, Irvin Kershner was wrong.
+[06:52.000 --> 06:54.000]  The movie was a hit.
+[06:54.000 --> 06:57.000]  But when George Lucas asked him to direct The Empire Strikes Back,
+[06:57.000 --> 06:59.000]  he said no.
+[06:59.000 --> 07:01.000]  In time, however, he gave in.
+[07:01.000 --> 07:04.000]  In May 1980, the sequel was released.
+[07:04.000 --> 07:07.000]  It is your destiny.
+[07:07.000 --> 07:13.000]  Join me, and together we can rule the galaxy as father and son.
+[07:17.000 --> 07:20.000]  Like Star Wars, it became a smashing success.
+[07:20.000 --> 07:23.000]  It was the highest grossing film in 1980,
+[07:23.000 --> 07:27.000]  and earned over $400 million worldwide.
+[07:27.000 --> 07:31.000]  Together, Irvin Kershner and George Lucas made what some argue
+[07:31.000 --> 07:35.000]  is the greatest film in the Star Wars franchise.
+[07:36.000 --> 07:40.000]  You could say that 1980 was the year of Star Wars.
+[07:40.000 --> 07:45.000]  By that same year, another film made its way into theaters.
+[07:45.000 --> 07:47.000]  You want the solution to inflation?
+[07:47.000 --> 07:51.000]  Hi, friends. Marshall Luckey here for New Deal Used Cars,
+[07:51.000 --> 07:53.000]  where we're battling inflation...
+[07:53.000 --> 07:55.000]  Used Cars was a lowbrow comedy
+[07:55.000 --> 07:58.000]  that followed the story of a sleazy car salesman
+[07:58.000 --> 08:00.000]  who had dreams of getting into politics.
+[08:00.000 --> 08:03.000]  It was packed with raunch and gallows humor.
+[08:03.000 --> 08:06.000]  I talked to the party chairman last week.
+[08:06.000 --> 08:09.000]  $60,000 buys me the nomination, and I'm a shoo-in.
+[08:09.000 --> 08:11.000]  $60,000, huh?
+[08:11.000 --> 08:13.000]  That's all it takes nowadays?
+[08:13.000 --> 08:15.000]  Nah, it's counting the down payments, you know.
+[08:15.000 --> 08:19.000]  Once I'm in, I go 50-50 on all the graft I take in.
+[08:19.000 --> 08:21.000]  I watched Used Cars recently.
+[08:21.000 --> 08:24.000]  It feels like three movies packed into one.
+[08:24.000 --> 08:27.000]  A manic energy runs through the film,
+[08:27.000 --> 08:30.000]  and the story flies off in different directions.
+[08:30.000 --> 08:34.000]  The characters are highly driven, but also unpleasant.
+[08:34.000 --> 08:37.000]  I found myself rooting against all of them.
+[08:39.000 --> 08:42.000]  Used Cars was not a good movie.
+[08:42.000 --> 08:45.000]  To put it less kindly, it was a flop.
+[08:45.000 --> 08:49.000]  The movie critic Roger Ebert gave the movie 2 out of 4 stars.
+[08:49.000 --> 08:53.000]  He said there were too many plot lines, too many characters.
+[08:53.000 --> 08:55.000]  It didn't make sense.
+[08:55.000 --> 08:58.000]  Critics slammed the movie's writer and director,
+[08:58.000 --> 09:01.000]  a young filmmaker named Robert Zemeckis.
+[09:01.000 --> 09:04.000]  He was a graduate of the USC Film School, too.
+[09:04.000 --> 09:09.000]  But while Irvin Kershner's career choices were careful and meticulous,
+[09:09.000 --> 09:12.000]  Robert Zemeckis liked to push the envelope.
+[09:12.000 --> 09:17.000]  Before Used Cars, he directed a musical called I Want to Hold Your Hand.
+[09:17.000 --> 09:21.000]  Set in 1964, it told the story of a group of teenagers
+[09:21.000 --> 09:23.000]  who were determined to meet the Beatles.
+[09:23.000 --> 09:26.000]  I figured out a way to get into the Beatles' hotel.
+[09:26.000 --> 09:30.000]  Damn, Yoshi, control yourself. There's still a hitch.
+[09:30.000 --> 09:34.000]  Around the same time, he co-wrote a movie called 1941,
+[09:34.000 --> 09:37.000]  a comedy about the Japanese attack on Pearl Harbor
+[09:37.000 --> 09:40.000]  that brought the United States into World War II.
+[09:40.000 --> 09:44.000]  The most explosive comedy spectacular ever filmed.
+[09:44.000 --> 09:46.000]  1941.
+[09:46.000 --> 09:50.000]  Sayonara, sucker!
+[09:51.000 --> 09:56.000]  As you might guess, a funny story about the Japanese attack on the United States
+[09:56.000 --> 09:59.000]  didn't go down well with American audiences.
+[09:59.000 --> 10:01.000]  It flopped, too.
+[10:03.000 --> 10:05.000]  While Robert Zemeckis' career was struggling,
+[10:05.000 --> 10:10.000]  Irvin Kershner released another hit, Never Say Never Again.
+[10:10.000 --> 10:15.000]  It was another sequel, this time in the hugely popular James Bond franchise.
+[10:15.000 --> 10:17.000]  I made you all wet.
+[10:17.000 --> 10:19.000]  Yes, but my martini's still dry.
+[10:19.000 --> 10:21.000]  You ski very well.
+[10:21.000 --> 10:27.000]  The movie was a commercial success, grossing $160 million at the box office.
+[10:29.000 --> 10:32.000]  Both the directors in our story by this point
+[10:32.000 --> 10:34.000]  had established reputations in Hollywood.
+[10:34.000 --> 10:37.000]  Irvin Kershner had become the king of sequels,
+[10:37.000 --> 10:40.000]  a director with a magic touch.
+[10:40.000 --> 10:43.000]  Robert Zemeckis looked like a dilettante.
+[10:43.000 --> 10:49.000]  His movies, like his stories, were weird, edgy, and all over the place.
+[10:49.000 --> 10:52.000]  You could say he had a magic touch, too,
+[10:52.000 --> 10:55.000]  for coming up with flops.
+[10:58.000 --> 11:00.000]  You're listening to Hidden Brain.
+[11:00.000 --> 11:02.000]  I'm Shankar Vedantam.
+[11:14.000 --> 11:18.000]  This is Hidden Brain. I'm Shankar Vedantam.
+[11:18.000 --> 11:21.000]  In the mid-1980s, two filmmakers in Hollywood
+[11:21.000 --> 11:24.000]  got famous for different reasons.
+[11:24.000 --> 11:26.000]  Irvin Kershner was an established director
+[11:26.000 --> 11:30.000]  who made The Empire Strikes Back and Never Say Never Again,
+[11:30.000 --> 11:32.000]  huge commercial successes.
+[11:32.000 --> 11:37.000]  Robert Zemeckis was developing a different kind of reputation.
+[11:37.000 --> 11:40.000]  After a string of failures, he struggled to find work,
+[11:40.000 --> 11:44.000]  After a string of failures, he struggled to find work in Hollywood.
+[11:44.000 --> 11:47.000]  Along with his writing partner, Bob Gale,
+[11:47.000 --> 11:49.000]  he took some time off to regroup.
+[11:49.000 --> 11:52.000]  One night, while visiting his parents in St. Louis,
+[11:52.000 --> 11:56.000]  Bob Gale was flipping through his father's high school yearbook.
+[11:56.000 --> 11:57.000]  He had a thought.
+[11:57.000 --> 12:01.000]  What would it be like to meet the younger version of his parents?
+[12:01.000 --> 12:06.000]  It was a weird idea, so, of course, Robert Zemeckis loved it.
+[12:06.000 --> 12:11.000]  For months, the pair began writing a family time-travel movie.
+[12:11.000 --> 12:15.000]  They excitedly took the story to nearly every studio in town.
+[12:15.000 --> 12:19.000]  But the stench of past flops preceded them.
+[12:19.000 --> 12:23.000]  The script was rejected over and over by every major studio,
+[12:23.000 --> 12:26.000]  some 40 times in all.
+[12:26.000 --> 12:29.000]  Robert Zemeckis later described what happened.
+[12:29.000 --> 12:32.000]  I think the decision to not make the film
+[12:32.000 --> 12:35.000]  was based on the fact that, as a director,
+[12:35.000 --> 12:39.000]  I had a very poor track record at the box office.
+[12:41.000 --> 12:44.000]  The problem wasn't just the filmmakers' reputation.
+[12:44.000 --> 12:50.000]  The studios gave the filmmakers a long list of reasons their idea wouldn't work.
+[12:50.000 --> 12:52.000]  Time-travel movies don't make money.
+[12:52.000 --> 12:54.000]  The story was too boring.
+[12:54.000 --> 12:56.000]  There wasn't enough sex.
+[12:56.000 --> 12:59.000]  Disney took a look at it and said they didn't like it
+[12:59.000 --> 13:01.000]  because it was too raunchy.
+[13:01.000 --> 13:05.000]  Everything about the movie, the plot, the premise, the writers,
+[13:05.000 --> 13:07.000]  was unconventional.
+[13:07.000 --> 13:10.000]  The filmmakers shelled the idea.
+[13:13.000 --> 13:16.000]  Meanwhile, Robert Zemeckis was given another chance to direct.
+[13:16.000 --> 13:22.000]  20th Century Fox hired him to work on a sci-fi movie called Cocoon.
+[13:22.000 --> 13:26.000]  While he worked on that film, he came across another screenplay.
+[13:26.000 --> 13:28.000]  It was about a successful romance novelist
+[13:28.000 --> 13:32.000]  who travels to Colombia to save her sister from kidnappers.
+[13:32.000 --> 13:35.000]  It was part comedy, part action-adventure.
+[13:35.000 --> 13:41.000]  My minimum price for taking a stranded woman to a telephone is $400.
+[13:41.000 --> 13:44.000]  Will you take $375 in traveler's checks?
+[13:44.000 --> 13:46.000]  American Express? Of course.
+[13:46.000 --> 13:48.000]  Got a deal.
+[13:48.000 --> 13:52.000]  Robert Zemeckis began to work on that film while also directing Cocoon.
+[13:52.000 --> 13:56.000]  But when he showed an early version of the romantic action movie
+[13:56.000 --> 13:59.000]  to a film executive, it didn't go well.
+[13:59.000 --> 14:02.000]  It seemed like more failure was imminent.
+[14:02.000 --> 14:04.000]  Eager to get ahead of a disaster,
+[14:04.000 --> 14:09.000]  20th Century Fox fired Robert Zemeckis as the director of Cocoon.
+[14:09.000 --> 14:14.000]  He was perilously close to becoming a pariah in Hollywood.
+[14:14.000 --> 14:17.000]  But then something surprising happened.
+[14:17.000 --> 14:22.000]  His romantic jungle-adventure comedy was released and became a hit.
+[14:22.000 --> 14:25.000]  It was called Romancing the Stone.
+[14:25.000 --> 14:28.000]  The movie is an upbeat, whimsical, romantic action picture
+[14:28.000 --> 14:30.000]  that is a great deal of fun.
+[14:30.000 --> 14:31.000]  It's a modern-day...
+[14:31.000 --> 14:34.000]  After Romancing the Stone became a runaway success,
+[14:34.000 --> 14:38.000]  Hollywood came to see the filmmakers' experiments in a new light.
+[14:38.000 --> 14:43.000]  The fact that Used Cars and 1941 and Romancing the Stone
+[14:43.000 --> 14:45.000]  were all wildly different movies
+[14:45.000 --> 14:49.000]  meant that this was a director who could not be pigeonholed.
+[14:49.000 --> 14:52.000]  Robert Zemeckis was an iconoclast.
+[14:52.000 --> 14:55.000]  Studios understood that this was a director
+[14:55.000 --> 14:58.000]  who needed a long leash of creative freedom
+[14:58.000 --> 15:00.000]  in order to do his best work.
+[15:02.000 --> 15:06.000]  Capitalizing on his newfound stardom, the director said,
+[15:06.000 --> 15:09.000]  OK, what about that family time-travel movie
+[15:09.000 --> 15:11.000]  that's been sitting on the shelf?
+[15:11.000 --> 15:15.000]  This time, the Hollywood executives said yes.
+[15:15.000 --> 15:19.000]  The movie was called Back to the Future.
+[15:23.000 --> 15:26.000]  It was a love story and a family story
+[15:26.000 --> 15:29.000]  and an action-adventure rolled into one.
+[15:29.000 --> 15:32.000]  It was part sci-fi, part romantic comedy,
+[15:32.000 --> 15:34.000]  and all Robert Zemeckis.
+[15:34.000 --> 15:36.000]  I loved it from the moment I saw it,
+[15:36.000 --> 15:39.000]  and every time ever since then watching it,
+[15:39.000 --> 15:41.000]  I love it even more.
+[15:41.000 --> 15:43.000]  Justin Berg is a fan.
+[15:43.000 --> 15:46.000]  To me, it's the closest thing to a perfect movie
+[15:46.000 --> 15:48.000]  that I could imagine.
+[15:48.000 --> 15:51.000]  To me, it's the closest thing to a perfect movie
+[15:51.000 --> 15:52.000]  that I could imagine.
+[15:52.000 --> 15:56.000]  I've probably seen the first one, I don't know,
+[15:56.000 --> 15:59.000]  close to 70 times.
+[15:59.000 --> 16:00.000]  70 times?
+[16:00.000 --> 16:02.000]  Probably by now.
+[16:02.000 --> 16:04.000]  Oh my gosh.
+[16:04.000 --> 16:06.000]  It's hard to count at this point.
+[16:11.000 --> 16:14.000]  70 times might be an exaggeration,
+[16:14.000 --> 16:17.000]  but Justin has seen the movie a lot.
+[16:17.000 --> 16:19.000]  When he's not watching Back to the Future,
+[16:19.000 --> 16:22.000]  he's a researcher in organizational behavior
+[16:22.000 --> 16:24.000]  at the Stanford Graduate School of Business.
+[16:24.000 --> 16:26.000]  If you're not familiar with the movie,
+[16:26.000 --> 16:29.000]  it tells the story of a teenager, Marty McFly,
+[16:29.000 --> 16:31.000]  who meets an eccentric scientist
+[16:31.000 --> 16:34.000]  who has built a time machine out of a DMC DeLorean.
+[16:34.000 --> 16:37.000]  The way I see it, if you're going to build a time machine
+[16:37.000 --> 16:39.000]  into a car, why not do it with some style?
+[16:39.000 --> 16:40.000]  Besides...
+[16:40.000 --> 16:42.000]  Marty takes a trip in the DeLorean
+[16:42.000 --> 16:45.000]  and goes back in time to when his parents were in high school
+[16:45.000 --> 16:47.000]  and before they were a couple.
+[16:47.000 --> 16:51.000]  He sees his future dad almost being hit by a car
+[16:51.000 --> 16:53.000]  and pushes him out of the way.
+[16:55.000 --> 16:58.000]  The problem is that in the original timeline,
+[16:58.000 --> 17:01.000]  the car accident was how Marty's mom and Marty's dad
+[17:01.000 --> 17:04.000]  meet one another and come together as a couple.
+[17:04.000 --> 17:06.000]  Now remember, according to my theory,
+[17:06.000 --> 17:08.000]  you interfered with your parents' first meeting.
+[17:08.000 --> 17:09.000]  If they don't meet, they won't fall in love,
+[17:09.000 --> 17:11.000]  they won't get married, and they won't have kids.
+[17:11.000 --> 17:12.000]  That's why your older brother's disappearing...
+[17:12.000 --> 17:14.000]  He now has to figure out how to make his parents
+[17:14.000 --> 17:16.000]  fall in love with each other.
+[17:16.000 --> 17:18.000]  So anyway, George, about Lorraine,
+[17:18.000 --> 17:20.000]  she really likes you.
+[17:20.000 --> 17:22.000]  She told me to tell you that she wants you
+[17:22.000 --> 17:25.000]  to ask her to the Enchantment of the Sea dance.
+[17:25.000 --> 17:29.000]  The story, the characters, the acting, the pacing,
+[17:29.000 --> 17:33.000]  the way it all comes together, the music, the aesthetics,
+[17:33.000 --> 17:36.000]  just how compelling and how gripping
+[17:36.000 --> 17:39.000]  and how much you root for Marty and Doc
+[17:39.000 --> 17:42.000]  from, you know, really early on in the film to the end.
+[17:43.000 --> 17:45.000]  The movie takes risks.
+[17:45.000 --> 17:49.000]  One of the plot lines involves Marty meeting his own mom.
+[17:49.000 --> 17:52.000]  His mom is a teenager, and they are roughly the same age.
+[17:52.000 --> 17:56.000]  To Marty's consternation, his mom becomes infatuated with him
+[17:56.000 --> 17:58.000]  instead of with his dad.
+[17:58.000 --> 18:01.000]  I've never seen purple underwear before, Calvin.
+[18:01.000 --> 18:04.000]  Calvin? Why do you keep calling me Calvin?
+[18:04.000 --> 18:06.000]  Well, that is your name, isn't it?
+[18:06.000 --> 18:08.000]  Calvin Klein?
+[18:08.000 --> 18:10.000]  You're getting all over your underwear.
+[18:10.000 --> 18:14.000]  No, actually, people call me Marty.
+[18:14.000 --> 18:16.000]  Oh.
+[18:16.000 --> 18:18.000]  Pleased to meet you, Calvin.
+[18:18.000 --> 18:20.000]  Marty.
+[18:20.000 --> 18:22.000]  And what I love about that scene is that
+[18:22.000 --> 18:25.000]  you can sort of see Marty's discomfort,
+[18:25.000 --> 18:28.000]  even as his mom is increasingly interested in him.
+[18:28.000 --> 18:30.000]  And we are seeing the philosophical
+[18:30.000 --> 18:32.000]  and psychological implications here.
+[18:32.000 --> 18:34.000]  And all of that is happening at the same point,
+[18:34.000 --> 18:36.000]  where multiple things are happening,
+[18:36.000 --> 18:38.000]  and it's happening at a very successful level
+[18:38.000 --> 18:41.000]  comedically, psychologically, and perhaps even philosophically.
+[18:41.000 --> 18:45.000]  Yeah, and this is the aspect of the movie that Disney didn't like.
+[18:45.000 --> 18:48.000]  They said, Disney cannot make a movie
+[18:48.000 --> 18:50.000]  about a mother falling in love with her son.
+[18:50.000 --> 18:52.000]  You know, we're Disney.
+[18:52.000 --> 18:56.000]  And I can understand why Disney would respond that way,
+[18:56.000 --> 18:58.000]  having just read the screenplay
+[18:58.000 --> 19:00.000]  and not seen the movie actually made,
+[19:00.000 --> 19:02.000]  and made so brilliantly.
+[19:02.000 --> 19:06.000]  Once you see it on screen, in line with Zemeckis' vision,
+[19:06.000 --> 19:08.000]  it's just funny, and it works,
+[19:08.000 --> 19:13.000]  and it doesn't seem, you know, queasy or cringey.
+[19:13.000 --> 19:16.000]  You know, it just works.
+[19:16.000 --> 19:19.000]  Back to the Future became a massive success.
+[19:19.000 --> 19:22.000]  It was the highest-grossing film in 1985,
+[19:22.000 --> 19:25.000]  earning nearly $400 million worldwide.
+[19:25.000 --> 19:27.000]  Film critic Roger Ebert said
+[19:28.000 --> 19:32.000]  Back to the Future offered humanity, charm, and humor.
+[19:34.000 --> 19:38.000]  Robert Zemeckis' career had taken a complete U-turn.
+[19:38.000 --> 19:42.000]  He was suddenly one of the most sought-after directors in Hollywood.
+[19:42.000 --> 19:46.000]  Meanwhile, Irvin Kershner's career had flatlined.
+[19:46.000 --> 19:48.000]  Well, Kershner was on top of the world
+[19:48.000 --> 19:50.000]  after Empire Strikes Back, as he should have been.
+[19:50.000 --> 19:54.000]  It was a smash hit, and he did it, you know, beautifully well.
+[19:54.000 --> 19:57.000]  But, you know, his career after that
+[19:57.000 --> 20:01.000]  didn't really take off in the way one might expect.
+[20:01.000 --> 20:05.000]  The rest of his career was just a couple of sequels, and that was it.
+[20:05.000 --> 20:08.000]  And we would have expected Zemeckis to exit Hollywood.
+[20:08.000 --> 20:11.000]  You know, he got fired from Cocoon.
+[20:11.000 --> 20:13.000]  He was kind of on the bottom of the world.
+[20:13.000 --> 20:15.000]  And then Romancing the Stone hit,
+[20:15.000 --> 20:18.000]  and it gave him the opportunity to make Back to the Future,
+[20:18.000 --> 20:20.000]  which, of course, became a smash hit.
+[20:20.000 --> 20:23.000]  And then his reputation was truly cemented
+[20:23.000 --> 20:26.000]  as a novel, creative, brilliant filmmaker.
+[20:28.000 --> 20:31.000]  In an interview at the time, Robert Zemeckis was asked
+[20:31.000 --> 20:34.000]  if he would ever want to make non-comedies.
+[20:34.000 --> 20:35.000]  He replied,
+[20:35.000 --> 20:38.000]  I would like to be able to do everything.
+[20:42.000 --> 20:46.000]  Kershner became known as Sequel Guy for understandable reasons.
+[20:46.000 --> 20:48.000]  He made a smash hit sequel.
+[20:48.000 --> 20:52.000]  Zemeckis, I think, came to be known in Hollywood and to audiences
+[20:52.000 --> 20:55.000]  as someone who can almost do anything.
+[20:55.000 --> 21:01.000]  You know, he had this, just in a few films in his early portfolio,
+[21:01.000 --> 21:04.000]  covered so much terrain and did so many different things.
+[21:04.000 --> 21:07.000]  Even within the context of one or two movies,
+[21:07.000 --> 21:09.000]  Romancing the Stone and Back to the Future,
+[21:09.000 --> 21:12.000]  they were so kind of complicated and had a lot of different elements to them
+[21:12.000 --> 21:15.000]  that I think, you know, he was not pigeonholed.
+[21:15.000 --> 21:18.000]  So his reputation was just, you know, as a filmmaker broadly,
+[21:18.000 --> 21:20.000]  and that gave him a lot of opportunities
+[21:20.000 --> 21:22.000]  and made him really adaptable.
+[21:24.000 --> 21:29.000]  Robert Zemeckis came to be seen as brilliant, daring and unpredictable.
+[21:29.000 --> 21:31.000]  His movie, Who Framed Roger Rabbit?
+[21:31.000 --> 21:35.000]  had cartoon characters and live human actors.
+[21:35.000 --> 21:38.000]  It was a comedy, action, fantasy murder mystery.
+[21:38.000 --> 21:39.000]  I don't!
+[21:39.000 --> 21:40.000]  You do!
+[21:40.000 --> 21:41.000]  I don't!
+[21:41.000 --> 21:42.000]  You do!
+[21:42.000 --> 21:43.000]  I don't!
+[21:43.000 --> 21:47.000]  By the mid-90s, people who came to watch each new Robert Zemeckis movie
+[21:47.000 --> 21:50.000]  had no idea what they were going to get.
+[21:50.000 --> 21:53.000]  Hollywood stars wanted to work with the director.
+[21:53.000 --> 21:56.000]  Everything he touched seemed to be innovative.
+[21:56.000 --> 22:02.000]  In 1994, he made a movie about an Alabama man named Forrest Gump.
+[22:02.000 --> 22:03.000]  His name's Forrest.
+[22:03.000 --> 22:04.000]  Like me.
+[22:04.000 --> 22:06.000]  I named him after his daddy.
+[22:06.000 --> 22:08.000]  He got a daddy named Forrest too?
+[22:08.000 --> 22:12.000]  All his life, the people around Forrest told him he wasn't smart.
+[22:12.000 --> 22:15.000]  Yet, while the world mocked him for being slow,
+[22:15.000 --> 22:17.000]  it was Forrest who had the last laugh.
+[22:17.000 --> 22:20.000]  His kindness, his generosity,
+[22:20.000 --> 22:23.000]  was stronger than the cruelty of those who mocked him.
+[22:23.000 --> 22:27.000]  In time, people came to see that Forrest, played by Tom Hanks,
+[22:27.000 --> 22:30.000]  was wise even if he wasn't smart.
+[22:31.000 --> 22:33.000]  I'm not a smart man.
+[22:34.000 --> 22:37.000]  But I know what love is.
+[22:41.000 --> 22:44.000]  Robert Zemeckis won an Oscar for Best Director.
+[22:44.000 --> 22:47.000]  Soon, he teamed up again with Tom Hanks
+[22:47.000 --> 22:50.000]  to make a strange movie about a FedEx employee
+[22:50.000 --> 22:54.000]  who washes up on a deserted island after a plane crash.
+[22:54.000 --> 22:58.000]  His only friend is a volleyball, whom he calls Wilson.
+[22:58.000 --> 23:00.000]  Wilson!
+[23:02.000 --> 23:03.000]  Oh!
+[23:03.000 --> 23:05.000]  Oh, never again!
+[23:05.000 --> 23:06.000]  Never again.
+[23:06.000 --> 23:07.000]  You're okay.
+[23:07.000 --> 23:09.000]  You're okay.
+[23:09.000 --> 23:12.000]  If used cars made me hate all the characters,
+[23:12.000 --> 23:16.000]  Cast Away made me think a volleyball has feelings too.
+[23:18.000 --> 23:22.000]  You can kind of see threads to his early work in all of these films
+[23:22.000 --> 23:25.000]  because his early work was so broad, diverse, and novel.
+[23:25.000 --> 23:28.000]  I mean, it's fascinating because you would think
+[23:28.000 --> 23:32.000]  that there's not much you can do with one guy on a deserted island
+[23:32.000 --> 23:36.000]  and a volleyball, and yet the movie is sort of rich and intense
+[23:36.000 --> 23:39.000]  and holds your attention from start to finish.
+[23:40.000 --> 23:42.000]  It's another film that just works,
+[23:42.000 --> 23:45.000]  despite the fact that you wouldn't expect it to work
+[23:45.000 --> 23:47.000]  if you just read the screenplay
+[23:47.000 --> 23:50.000]  and you didn't know that Robert Zemeckis was about to direct it.
+[23:56.000 --> 23:58.000]  Over the next several decades,
+[23:58.000 --> 24:01.000]  Robert Zemeckis would remain a prolific filmmaker,
+[24:01.000 --> 24:04.000]  producing a number of films and TV shows.
+[24:04.000 --> 24:07.000]  Meanwhile, Irwin Kirshner's career,
+[24:07.000 --> 24:10.000]  which had started out looking so much more promising
+[24:10.000 --> 24:12.000]  than Robert Zemeckis' career,
+[24:12.000 --> 24:15.000]  never returned to the highs of The Empire Strikes Back
+[24:15.000 --> 24:17.000]  and Never Say Never Again.
+[24:17.000 --> 24:19.000]  He died in 2010.
+[24:19.000 --> 24:22.000]  So what makes a Kirshner a Kirshner
+[24:22.000 --> 24:25.000]  and a Zemeckis a Zemeckis?
+[24:25.000 --> 24:29.000]  Why are some creators shooting stars that quickly burn out
+[24:29.000 --> 24:34.000]  while others find themselves on a sustained trajectory of success?
+[24:35.000 --> 24:37.000]  As a researcher who studies creativity,
+[24:37.000 --> 24:39.000]  Justin became very interested
+[24:39.000 --> 24:43.000]  in how outliers like Robert Zemeckis achieve outsized success.
+[24:44.000 --> 24:48.000]  I'm just in awe of seeing creators do what they do.
+[24:48.000 --> 24:53.000]  Being a fan of movies and TV shows and books
+[24:53.000 --> 24:57.000]  and all the various creative industry products,
+[24:57.000 --> 25:00.000]  it's just kind of amazing to think
+[25:00.000 --> 25:03.000]  that these things were created by people.
+[25:03.000 --> 25:06.000]  And even more amazing to think
+[25:06.000 --> 25:08.000]  some creators do this over and over again
+[25:08.000 --> 25:12.000]  and create things that we love and remember and cherish
+[25:12.000 --> 25:15.000]  and talk to about with other people
+[25:15.000 --> 25:19.000]  and they somehow manage to kind of keep doing it.
+[25:19.000 --> 25:21.000]  It's a bit like a magic trick
+[25:21.000 --> 25:23.000]  and wanting to understand how the magic trick works.
+[25:23.000 --> 25:26.000]  And so I've dedicated my life to figuring out,
+[25:26.000 --> 25:30.000]  to kind of demystifying what creators do
+[25:30.000 --> 25:34.000]  and how they actually build creative ideas
+[25:34.000 --> 25:37.000]  and make things happen from nothing.
+[25:39.000 --> 25:41.000]  Creative industries, of course,
+[25:41.000 --> 25:42.000]  draw large numbers of people
+[25:42.000 --> 25:44.000]  who are looking to make a name for themselves.
+[25:44.000 --> 25:47.000]  Innumerable people want to be writers,
+[25:47.000 --> 25:49.000]  filmmakers, and musicians.
+[25:49.000 --> 25:51.000]  If success was predictable,
+[25:51.000 --> 25:52.000]  you might expect to see
+[25:52.000 --> 25:55.000]  what mathematicians call a normal distribution.
+[25:55.000 --> 25:58.000]  If you line up human beings by height,
+[25:58.000 --> 26:01.000]  the very tall and the very short are in the minority,
+[26:01.000 --> 26:03.000]  most people are average.
+[26:03.000 --> 26:06.000]  But in creative industries, Justin says,
+[26:06.000 --> 26:09.000]  most people are unsuccessful.
+[26:09.000 --> 26:12.000]  A handful achieve brief success.
+[26:12.000 --> 26:17.000]  A very tiny number achieve sustained outside success.
+[26:17.000 --> 26:19.000]  It's that pattern we talked about,
+[26:19.000 --> 26:21.000]  the power law distribution.
+[26:21.000 --> 26:24.000]  Power law distribution is a very skewed distribution
+[26:24.000 --> 26:26.000]  where if we look at all the creators
+[26:26.000 --> 26:28.000]  that have one or more hits,
+[26:28.000 --> 26:30.000]  so this doesn't count the people who have zero hits,
+[26:30.000 --> 26:32.000]  which is actually the vast majority of creators.
+[26:32.000 --> 26:35.000]  But if we just look at the small slice of creators
+[26:35.000 --> 26:38.000]  who are fortunate and talented enough to get one hit,
+[26:38.000 --> 26:41.000]  half or more are going to be one-hit wonders.
+[26:41.000 --> 26:44.000]  In other words, they're going to have exactly one hit
+[26:44.000 --> 26:45.000]  in their entire career.
+[26:45.000 --> 26:48.000]  And only a small handful of creators
+[26:48.000 --> 26:51.000]  are going to have several more hits in their career.
+[26:51.000 --> 26:54.000]  And so it's this very skewed distribution
+[26:54.000 --> 26:57.000]  where most just have one, two, maybe three,
+[26:57.000 --> 27:01.000]  and then very, very few have several or more.
+[27:01.000 --> 27:03.000]  The sustained success of some creators
+[27:03.000 --> 27:05.000]  is all the more puzzling
+[27:05.000 --> 27:07.000]  when you consider that there are always new writers,
+[27:07.000 --> 27:09.000]  filmmakers, and musicians
+[27:09.000 --> 27:11.000]  who are looking to make their mark.
+[27:11.000 --> 27:15.000]  In these creative industries, because things churn a lot
+[27:15.000 --> 27:17.000]  and there's a constant new entrance
+[27:17.000 --> 27:19.000]  and there's a high degree of competition
+[27:19.000 --> 27:21.000]  and pace of change,
+[27:21.000 --> 27:23.000]  success is much less predictable.
+[27:23.000 --> 27:24.000]  There's more randomness,
+[27:24.000 --> 27:26.000]  and it's more difficult for creators
+[27:26.000 --> 27:28.000]  to be able to sustain success.
+[27:30.000 --> 27:32.000]  One way to think about this
+[27:32.000 --> 27:34.000]  is that people who achieve sustained success
+[27:34.000 --> 27:36.000]  in creative industries
+[27:36.000 --> 27:39.000]  have made it through an extremely difficult obstacle course.
+[27:40.000 --> 27:43.000]  The first challenge is to get noticed at all.
+[27:43.000 --> 27:46.000]  The second obstacle, if you make it past the first,
+[27:46.000 --> 27:49.000]  is to sustain that initial success.
+[27:49.000 --> 27:52.000]  These may seem like similar challenges,
+[27:52.000 --> 27:54.000]  but in fact, they are not.
+[27:55.000 --> 27:56.000]  When we come back,
+[27:56.000 --> 27:59.000]  Justin's research uncovers a cruel truth.
+[27:59.000 --> 28:03.000]  The very thing that helps you get past the first obstacle
+[28:03.000 --> 28:06.000]  makes it harder to get past the second.
+[28:07.000 --> 28:08.000]  You're listening to Hidden Brain.
+[28:08.000 --> 28:10.000]  I'm Shankar Vedanta.
+[28:23.000 --> 28:24.000]  This is Hidden Brain.
+[28:24.000 --> 28:26.000]  I'm Shankar Vedanta.
+[28:26.000 --> 28:27.000]  Some years ago,
+[28:27.000 --> 28:30.000]  I interviewed the researcher Herman Aguinis.
+[28:30.000 --> 28:32.000]  He evaluated the performance of people
+[28:32.000 --> 28:34.000]  in a wide variety of fields.
+[28:34.000 --> 28:38.000]  He found that success was distributed unequally.
+[28:38.000 --> 28:40.000]  We looked at researchers,
+[28:40.000 --> 28:42.000]  we looked at entertainers,
+[28:42.000 --> 28:44.000]  we looked at politicians,
+[28:44.000 --> 28:45.000]  and we looked at collegiate
+[28:45.000 --> 28:47.000]  as well as professional athletes.
+[28:47.000 --> 28:49.000]  In each of these kinds of industries,
+[28:49.000 --> 28:53.000]  we found that a small minority of superstar performers
+[28:53.000 --> 28:56.000]  contribute a disproportionate amount of the output.
+[28:57.000 --> 28:59.000]  You can see the same thing for yourself
+[28:59.000 --> 29:01.000]  if you look at the charts of best-selling books
+[29:01.000 --> 29:03.000]  or the music charts.
+[29:03.000 --> 29:05.000]  You'll see lots of churn,
+[29:05.000 --> 29:07.000]  meaning a steady stream of new entrants,
+[29:07.000 --> 29:10.000]  but most of these are one-hit wonders.
+[29:10.000 --> 29:11.000]  Like shooting stars,
+[29:11.000 --> 29:13.000]  they shine brightly for a moment
+[29:13.000 --> 29:15.000]  and then vanish.
+[29:16.000 --> 29:19.000]  You'll also find a small number of authors and musicians
+[29:19.000 --> 29:22.000]  who consistently stay atop the charts.
+[29:24.000 --> 29:26.000]  At Stanford University,
+[29:26.000 --> 29:29.000]  Justin Berg was curious about why this happens.
+[29:29.000 --> 29:32.000]  Why do some creative artists have momentary success
+[29:32.000 --> 29:35.000]  while others have sustained success?
+[29:35.000 --> 29:37.000]  To try to answer this question,
+[29:37.000 --> 29:40.000]  he looked at one specific arm of the entertainment industry,
+[29:40.000 --> 29:42.000]  the music business.
+[29:42.000 --> 29:44.000]  If you're interested in studying sustained success
+[29:44.000 --> 29:46.000]  in the context of a creative industry,
+[29:46.000 --> 29:49.000]  studying music is a little bit like a biologist studying fruit flies
+[29:49.000 --> 29:51.000]  because you get to see a lot of life cycles
+[29:51.000 --> 29:55.000]  because it's arguably the fastest-moving, highest-churn industry
+[29:55.000 --> 29:57.000]  of all the creative industries.
+[29:58.000 --> 30:00.000]  Justin conducted a massive study
+[30:00.000 --> 30:03.000]  that looked at musicians who never become successful,
+[30:03.000 --> 30:05.000]  those who only had one hit song,
+[30:05.000 --> 30:09.000]  and those who generated hit after hit after hit.
+[30:09.000 --> 30:12.000]  He tracked nearly 70,000 artists
+[30:12.000 --> 30:17.000]  who had been signed by a label between the years of 1959 and 2010.
+[30:17.000 --> 30:19.000]  Then he measured how many of their songs
+[30:19.000 --> 30:22.000]  had cracked the Billboard Hot 100 list.
+[30:22.000 --> 30:26.000]  In total, he ended up analyzing 3 million songs.
+[30:27.000 --> 30:30.000]  In my data set, if you look at artists
+[30:30.000 --> 30:33.000]  who have been signed by major labels,
+[30:33.000 --> 30:36.000]  any label that's had a hit,
+[30:36.000 --> 30:38.000]  so about 70,000 artists,
+[30:38.000 --> 30:40.000]  93% have had zero hits,
+[30:40.000 --> 30:43.000]  and only 7% have had one or more hits,
+[30:43.000 --> 30:47.000]  and then about half of that 7% have only had one hit.
+[30:47.000 --> 30:50.000]  A very consistent finding across creative industries
+[30:50.000 --> 30:54.000]  is that half or more of creators are one-hit wonders,
+[30:54.000 --> 30:56.000]  if they have a hit at all.
+[30:56.000 --> 30:59.000]  And so what have been the ways people have tried to understand this?
+[30:59.000 --> 31:01.000]  I want to get to your research in just a second,
+[31:01.000 --> 31:04.000]  but I'm wondering how people have tried to understand this phenomenon.
+[31:04.000 --> 31:07.000]  I mean, and I think at least one explanation is,
+[31:07.000 --> 31:09.000]  well, you know, Shakespeare is Shakespeare.
+[31:09.000 --> 31:11.000]  You have people who are just sort of creative geniuses,
+[31:11.000 --> 31:13.000]  and when those people come along,
+[31:13.000 --> 31:15.000]  they're the people who have sustained success.
+[31:15.000 --> 31:18.000]  If you can just give me, paint a picture of what some of the theories were
+[31:18.000 --> 31:20.000]  that you've encountered in the past
+[31:20.000 --> 31:22.000]  that explain sort of this unusual finding.
+[31:24.000 --> 31:27.000]  You know, one thought that comes to mind is individual talent,
+[31:27.000 --> 31:29.000]  you know, that some creators are just inherently,
+[31:29.000 --> 31:31.000]  innately more talented than others,
+[31:31.000 --> 31:34.000]  and that could, you know, that's a possible explanation.
+[31:34.000 --> 31:38.000]  Another one is quantity of works, quantity of products.
+[31:38.000 --> 31:42.000]  You know, it's a pretty consistent finding in the research literature
+[31:42.000 --> 31:46.000]  that highly successful creators produce more content,
+[31:46.000 --> 31:48.000]  they produce more works, they produce more products,
+[31:48.000 --> 31:51.000]  and that increases their odds of having hits
+[31:51.000 --> 31:54.000]  and sustaining, you know, a long career with hits.
+[31:54.000 --> 31:58.000]  There's also the concept of something called cumulative advantage.
+[31:58.000 --> 32:01.000]  This is the idea that once you have a lot of success,
+[32:01.000 --> 32:04.000]  you're no longer starting from scratch with each new album.
+[32:04.000 --> 32:07.000]  You can build on your mountain of success
+[32:07.000 --> 32:09.000]  and create an even bigger mountain.
+[32:09.000 --> 32:13.000]  If you're Taylor Swift or Bruce Springsteen,
+[32:13.000 --> 32:15.000]  you know, already quite famous,
+[32:15.000 --> 32:18.000]  and you have a lot of marketing muscle behind you,
+[32:18.000 --> 32:21.000]  and you have a fan base that's already ravenous,
+[32:21.000 --> 32:25.000]  eager for your next album to drop,
+[32:25.000 --> 32:28.000]  we have good theories to explain how they sustain success,
+[32:28.000 --> 32:31.000]  but that's long after they've already become a hit maker,
+[32:31.000 --> 32:33.000]  they've had several more hits,
+[32:33.000 --> 32:35.000]  then we know that resources and opportunities
+[32:35.000 --> 32:37.000]  are very elite group of, you know,
+[32:37.000 --> 32:41.000]  the top 1% of the top 1% kind of creators.
+[32:41.000 --> 32:44.000]  But there's fewer theories to kind of explain
+[32:44.000 --> 32:49.000]  how creators become hit makers to begin with.
+[32:49.000 --> 32:52.000]  And I'm wondering, were you not persuaded by these theories?
+[32:52.000 --> 32:56.000]  I mean, each of them in some ways, at least sounds plausible.
+[32:56.000 --> 32:58.000]  I'm persuaded by all of them.
+[32:58.000 --> 33:00.000]  So I do think, you know, talent plays some role,
+[33:00.000 --> 33:04.000]  but I think that nearly all creators that have one or two hits
+[33:04.000 --> 33:06.000]  are pretty darn talented.
+[33:06.000 --> 33:09.000]  And if you take a closer look, you know,
+[33:09.000 --> 33:13.000]  in a more grander way and try to kind of compare the talent
+[33:13.000 --> 33:16.000]  of a lot of creators that become one hit wonders,
+[33:16.000 --> 33:18.000]  compared to hit makers,
+[33:18.000 --> 33:21.000]  talent doesn't really seem to be the whole story.
+[33:21.000 --> 33:24.000]  Maybe a little bit of it, but not the whole story.
+[33:24.000 --> 33:27.000]  And I totally buy that quantity also plays a big role.
+[33:27.000 --> 33:30.000]  That's just kind of a mathematical, you know,
+[33:30.000 --> 33:33.000]  truism that if you have more products,
+[33:33.000 --> 33:37.000]  the likelihood that you're going to have any one of them hit is higher.
+[33:37.000 --> 33:40.000]  But I don't know that that explains like all the variants
+[33:40.000 --> 33:43.000]  and whether you become, you know, one hit wonder, hit maker,
+[33:43.000 --> 33:45.000]  just like talent. It explains some of it.
+[33:45.000 --> 33:48.000]  You do have to keep producing work.
+[33:48.000 --> 33:50.000]  You can't quit. You can't give up.
+[33:50.000 --> 33:53.000]  But quantity also doesn't tell the whole story.
+[33:53.000 --> 33:56.000]  And of course, with cumulative advantage,
+[33:56.000 --> 33:59.000]  that's a very robust finding in social science
+[33:59.000 --> 34:02.000]  that the, you know, success begets success.
+[34:02.000 --> 34:05.000]  So those who have already become hit makers,
+[34:05.000 --> 34:08.000]  we can predict that their next album or their next film,
+[34:08.000 --> 34:12.000]  their next book is going to do well with more certainty than a new entrant.
+[34:12.000 --> 34:15.000]  But my research kind of enters in of
+[34:15.000 --> 34:18.000]  how do you get to that level to begin with?
+[34:20.000 --> 34:24.000]  As Justin began to approach his question, he had a thought.
+[34:24.000 --> 34:26.000]  Most people analyzing success
+[34:26.000 --> 34:30.000]  looked at the successful songs and movies of creators.
+[34:30.000 --> 34:32.000]  When we think of Robert Zemeckis' career,
+[34:32.000 --> 34:36.000]  we think of Back to the Future and Forrest Gump and Castaway.
+[34:36.000 --> 34:38.000]  But what about his older work?
+[34:38.000 --> 34:40.000]  The work that wasn't successful?
+[34:40.000 --> 34:42.000]  Movies like Used Cars
+[34:42.000 --> 34:45.000]  or that comedy about the Pearl Harbor attacks?
+[34:45.000 --> 34:48.000]  And it struck me that, you know,
+[34:48.000 --> 34:51.000]  researchers have not really looked at how
+[34:51.000 --> 34:55.000]  a creator's past portfolio is predicting future success.
+[34:55.000 --> 34:58.000]  We call that in the literature path dependence.
+[34:58.000 --> 35:02.000]  So path dependence is the idea that what happens early in a process
+[35:02.000 --> 35:06.000]  can limit the range of options you have by the end of that process.
+[35:06.000 --> 35:08.000]  And as a creativity researcher,
+[35:08.000 --> 35:11.000]  when I looked at the existing literature
+[35:11.000 --> 35:15.000]  on sort of sustained success and creative careers,
+[35:15.000 --> 35:19.000]  most of the research was looking at, you know,
+[35:19.000 --> 35:22.000]  how creative a given product is at a given time,
+[35:22.000 --> 35:27.000]  you know, how novel it is or how much variety it adds to a creator's portfolio.
+[35:27.000 --> 35:31.000]  And then using that to try to predict whether that product would be successful.
+[35:31.000 --> 35:36.000]  It didn't look at path dependence, which would be how does past products,
+[35:36.000 --> 35:39.000]  so the products that the creator has generated
+[35:39.000 --> 35:41.000]  and released to the market in the past,
+[35:41.000 --> 35:44.000]  how does that influence future performance?
+[35:44.000 --> 35:47.000]  And so it dawned on me that that's just a huge, you know,
+[35:47.000 --> 35:52.000]  overlooked factor that portfolios could be carriers of history
+[35:52.000 --> 35:56.000]  that end up having enduring implications beyond that moment
+[35:56.000 --> 35:58.000]  when each product was released.
+[35:58.000 --> 36:02.000]  And so I brought that perspective to bear on the music industry.
+[36:02.000 --> 36:05.000]  Of course, one reason it's very hard to analyze
+[36:05.000 --> 36:10.000]  how a musician's initial songs and career might offer clues to her later success
+[36:10.000 --> 36:13.000]  is that this is very hard to do on a massive scale.
+[36:13.000 --> 36:16.000]  So sure, you can analyze the early songs of the Beatles
+[36:16.000 --> 36:20.000]  or the early songs of Taylor Swift once you know they are superstars.
+[36:20.000 --> 36:24.000]  But if there is useful information in the early careers of musicians,
+[36:24.000 --> 36:27.000]  it's not enough to analyze the superstars.
+[36:27.000 --> 36:29.000]  You have to analyze everyone
+[36:29.000 --> 36:32.000]  so you can figure out what the superstars are doing differently.
+[36:32.000 --> 36:37.000]  You have to study the vast majority of musicians who never have a hit,
+[36:37.000 --> 36:40.000]  the smaller number who have a single hit,
+[36:40.000 --> 36:43.000]  and the tiny minority who have sustained success.
+[36:43.000 --> 36:48.000]  The only way to do this is by computing enormous amounts of information.
+[36:48.000 --> 36:53.000]  Justin algorithmically dissected millions of songs by thousands of artists
+[36:53.000 --> 36:58.000]  into a number of different sonic features from tempo to time signature.
+[36:58.000 --> 37:02.000]  He wanted to see whether there were patterns common to musicians who had no hits,
+[37:02.000 --> 37:05.000]  musicians who were one-hit wonders,
+[37:05.000 --> 37:09.000]  and musicians who scored hit after hit after hit.
+[37:11.000 --> 37:16.000]  He looked at two ideas, novelty and variety.
+[37:16.000 --> 37:19.000]  Novelty is how unique a song is
+[37:19.000 --> 37:22.000]  compared to the other songs in the marketplace at the time.
+[37:22.000 --> 37:25.000]  So basically, novelty is how unique a song is
+[37:25.000 --> 37:27.000]  compared to the recent hits in the market.
+[37:27.000 --> 37:33.000]  And variety is how different your songs within your portfolio are to one another.
+[37:33.000 --> 37:37.000]  So variety is internal to the creator's own portfolio.
+[37:38.000 --> 37:41.000]  We'll come back to the idea of variety in a moment.
+[37:41.000 --> 37:43.000]  But looking first at novelty,
+[37:43.000 --> 37:46.000]  you might think it would be a predictor of success.
+[37:46.000 --> 37:48.000]  If you want to make a mark for yourself,
+[37:48.000 --> 37:50.000]  If you want to make a mark for yourself,
+[37:50.000 --> 37:53.000]  doesn't it make sense to come up with something startlingly new and daring
+[37:53.000 --> 37:55.000]  that no one has ever done before?
+[37:55.000 --> 37:57.000]  That might make sense intuitively,
+[37:57.000 --> 38:01.000]  but it fails to recognize that songs and genres that are popular
+[38:01.000 --> 38:04.000]  are popular for a very simple reason.
+[38:04.000 --> 38:07.000]  Audiences want to listen to them.
+[38:07.000 --> 38:10.000]  When you give audiences something very new,
+[38:10.000 --> 38:11.000]  they're likely to go,
+[38:11.000 --> 38:13.000]  what the heck is this?
+[38:13.000 --> 38:16.000]  Novelty is a negative predictor of initial success,
+[38:16.000 --> 38:19.000]  meaning that creators who release novel songs
+[38:19.000 --> 38:21.000]  are less likely to ever have a hit.
+[38:21.000 --> 38:22.000]  They're more likely to strike out,
+[38:22.000 --> 38:24.000]  and we never really hear about them.
+[38:24.000 --> 38:27.000]  So if a creator builds a novel portfolio
+[38:27.000 --> 38:29.000]  that's a bunch of unique songs
+[38:29.000 --> 38:33.000]  that sort of stand out compared to what's hit recently in the market,
+[38:33.000 --> 38:38.000]  they are less likely to ever have a hit in their career.
+[38:38.000 --> 38:42.000]  Conversely, creators who build typical portfolios,
+[38:42.000 --> 38:47.000]  so songs that sound very similar to what's popular at the time,
+[38:47.000 --> 38:50.000]  they are more likely to have a hit in their career.
+[38:50.000 --> 38:52.000]  They're more likely to have an initial hit,
+[38:52.000 --> 38:55.000]  but they're also more likely then to become a one-hit wonder
+[38:55.000 --> 38:56.000]  after that initial hit.
+[38:59.000 --> 39:01.000]  Think back to the story of Irwin Kushner.
+[39:01.000 --> 39:05.000]  Star Wars might have been a novel idea when it came out,
+[39:05.000 --> 39:08.000]  but the idea of an intergalactic space war
+[39:08.000 --> 39:11.000]  was hardly novel in The Empire Strikes Back,
+[39:11.000 --> 39:16.000]  a sequel is pretty much the definition of a movie style that is not novel.
+[39:18.000 --> 39:20.000]  Compare this to Robert Zemeckis,
+[39:20.000 --> 39:24.000]  whose early movies were pretty unusual and were all flops.
+[39:24.000 --> 39:28.000]  1941, a comedy about the bombing of Pearl Harbor,
+[39:28.000 --> 39:30.000]  is as novel as it gets,
+[39:30.000 --> 39:34.000]  and it received a stony-faced response from audiences.
+[39:34.000 --> 39:39.000]  So if you want to produce a hit, novelty is risky.
+[39:39.000 --> 39:40.000]  But here's the catch.
+[39:40.000 --> 39:43.000]  When it comes to building sustained success,
+[39:43.000 --> 39:47.000]  novelty now becomes a huge advantage.
+[39:47.000 --> 39:50.000]  So if you do manage to build a novel portfolio
+[39:50.000 --> 39:52.000]  and then have an initial hit,
+[39:52.000 --> 39:59.000]  that novel portfolio acts as sort of a resource for sustained success.
+[39:59.000 --> 40:02.000]  So those who reach their initial hits with a novel portfolio
+[40:02.000 --> 40:04.000]  are more likely to have additional hits.
+[40:05.000 --> 40:06.000]  In other words,
+[40:06.000 --> 40:10.000]  if creators are able to beat the odds and find success with novel ideas,
+[40:10.000 --> 40:14.000]  that novelty becomes the driver for further success.
+[40:15.000 --> 40:17.000]  There's two reasons for this,
+[40:17.000 --> 40:21.000]  and I call them internal learning and external expectations.
+[40:21.000 --> 40:23.000]  So internal learning is just the fact
+[40:23.000 --> 40:27.000]  that you've learned more from that novel portfolio
+[40:27.000 --> 40:31.000]  than you would have if you had built a typical portfolio.
+[40:31.000 --> 40:35.000]  You learn more, and you also learn more adaptable lessons.
+[40:35.000 --> 40:38.000]  So for external expectations,
+[40:38.000 --> 40:41.000]  that's about how the outside world thinks of you.
+[40:41.000 --> 40:46.000]  So this is the audience and key gatekeepers in the industry,
+[40:46.000 --> 40:51.000]  whether it's executives or disc jockeys or agents, producers, etc.
+[40:51.000 --> 40:55.000]  And so if you have built a novel portfolio
+[40:55.000 --> 40:58.000]  and then had an initial hit with that novel portfolio,
+[40:58.000 --> 41:03.000]  you are now seen as someone who's an innovator.
+[41:04.000 --> 41:10.000]  People are more open to you coming out with new music,
+[41:10.000 --> 41:14.000]  and it essentially makes you more adaptable over time.
+[41:14.000 --> 41:18.000]  I mean, in some ways, this sounds like the story of Robert Zemeckis.
+[41:18.000 --> 41:19.000]  I think so.
+[41:19.000 --> 41:23.000]  You know, I Want to Hold Your Hand was not super novel,
+[41:23.000 --> 41:25.000]  but used cars certainly was.
+[41:25.000 --> 41:27.000]  Romance in the Stones certainly was.
+[41:27.000 --> 41:29.000]  1941 certainly was.
+[41:29.000 --> 41:32.000]  I think he learned a lot from all of these films.
+[41:32.000 --> 41:36.000]  And then he took all of that, everything that he learned,
+[41:36.000 --> 41:38.000]  and he put it in Back to the Future,
+[41:38.000 --> 41:41.000]  and that became his first smash hit.
+[41:41.000 --> 41:44.000]  Right, and then the fact is that he had this experience
+[41:44.000 --> 41:45.000]  with all these different things,
+[41:45.000 --> 41:50.000]  and that helped him as he was building Castaway and Forrest Gump
+[41:50.000 --> 41:52.000]  and Contact and other movies.
+[41:52.000 --> 41:56.000]  Yeah, I think both learning and external expectations
+[41:56.000 --> 41:59.000]  helped serve his sustained success.
+[41:59.000 --> 42:01.000]  So he learned something from that early portfolio,
+[42:01.000 --> 42:04.000]  but then also the outside world came to see him
+[42:04.000 --> 42:08.000]  as this brilliant, novel, creative filmmaker who can do anything.
+[42:08.000 --> 42:12.000]  So then it allowed him to pursue a broader array of films
+[42:12.000 --> 42:14.000]  after his initial hits.
+[42:17.000 --> 42:19.000]  Notice the cruel irony here.
+[42:19.000 --> 42:22.000]  The very thing that makes you more likely to have initial success
+[42:22.000 --> 42:27.000]  works against you when it comes to sustained success.
+[42:27.000 --> 42:29.000]  The very thing that helps you have sustained success
+[42:29.000 --> 42:34.000]  works against you when it comes to getting your initial breakthrough.
+[42:34.000 --> 42:39.000]  Here was an explanation for the power law distribution in music.
+[42:39.000 --> 42:43.000]  To become a superstar, you need to overcome two obstacles
+[42:43.000 --> 42:46.000]  where your chances of overcoming the first
+[42:46.000 --> 42:50.000]  reduce your chances of overcoming the second.
+[42:50.000 --> 42:53.000]  Justin has looked at two singers who exemplify this idea,
+[42:53.000 --> 42:57.000]  Reby Jackson and Janet Jackson.
+[42:58.000 --> 43:03.000]  Reby and Janet Jackson got their start in a very similar way.
+[43:03.000 --> 43:06.000]  They were introduced to the world on the TV show The Jacksons,
+[43:06.000 --> 43:10.000]  which also introduced Michael Jackson in the Jackson 5 to the world.
+[43:10.000 --> 43:13.000]  That was in the late 70s.
+[43:13.000 --> 43:17.000]  And then both Reby and Janet Jackson had their debuts
+[43:17.000 --> 43:21.000]  as solo artists in the early to mid-1980s.
+[43:21.000 --> 43:24.000]  Reby released her debut album in 1984.
+[43:24.000 --> 43:27.000]  It contained the hit song Centipede.
+[43:33.000 --> 43:36.000]  Around the same time, Reby's younger sister, Janet,
+[43:36.000 --> 43:38.000]  released her own debut album.
+[43:42.000 --> 43:46.000]  Both of them actually started off pretty successfully.
+[43:46.000 --> 43:51.000]  They both actually had a top 100 hit on their debut albums.
+[43:51.000 --> 43:56.000]  Now, from there, their careers took very different trajectories.
+[43:56.000 --> 44:00.000]  Reby, by Justin's calculations, was a one-hit wonder.
+[44:00.000 --> 44:04.000]  None of her subsequent songs came close to the success of Centipede.
+[44:04.000 --> 44:09.000]  And of course, Janet Jackson has become one of the best-selling artists of all time
+[44:09.000 --> 44:11.000]  with 41 hits and counting.
+[44:11.000 --> 44:16.000]  And how do you think their backgrounds in terms of novelty and variety
+[44:16.000 --> 44:19.000]  speak to the research that you have done, Justin?
+[44:19.000 --> 44:24.000]  So their initial portfolio, so their portfolios at the time of their initial hits,
+[44:24.000 --> 44:27.000]  were of course their debut albums because they both got their first hits
+[44:27.000 --> 44:29.000]  from their debut albums.
+[44:29.000 --> 44:32.000]  And so we can do a pretty good head-to-head comparison.
+[44:32.000 --> 44:37.000]  And as it turns out, and this is what my model would predict,
+[44:37.000 --> 44:41.000]  Janet scores higher in novelty than Reby.
+[44:41.000 --> 44:47.000]  And that song that Reby had in 1984 was, I understand, actually
+[44:47.000 --> 44:50.000]  Michael Jackson, who was a huge star at the time, actually helped to write
+[44:50.000 --> 44:52.000]  and produce the song.
+[44:52.000 --> 44:54.000]  And it sounds a little bit like Michael Jackson.
+[44:54.000 --> 44:56.000]  It has his signature all over it.
+[44:56.000 --> 44:59.000]  So that speaks in some ways to what you're talking about in terms of the song
+[44:59.000 --> 45:03.000]  having star appeal but not a lot of novelty.
+[45:03.000 --> 45:06.000]  Exactly.
+[45:06.000 --> 45:11.000]  Novelty is both an advantage and a disadvantage for creators.
+[45:11.000 --> 45:13.000]  If you're a creator with conventional ideas,
+[45:13.000 --> 45:16.000]  you probably won't have long-term success.
+[45:17.000 --> 45:20.000]  But if you're a creator with unconventional ideas,
+[45:20.000 --> 45:24.000]  you'll have a hard time getting those ideas off the ground in the first place.
+[45:24.000 --> 45:27.000]  There's this diametric trade-off between those two approaches.
+[45:27.000 --> 45:30.000]  Do you produce songs that are different from the market
+[45:30.000 --> 45:34.000]  or do you produce songs that sound similar to what's been recently popular?
+[45:34.000 --> 45:37.000]  Because of this trade-off, if you're a new creator,
+[45:37.000 --> 45:41.000]  a new artist in the music industry trying to decide how to construct your portfolio,
+[45:41.000 --> 45:46.000]  you actually can't maximize your odds of becoming a hitmaker
+[45:46.000 --> 45:51.000]  without simultaneously increasing your odds of having zero hits in your career.
+[45:51.000 --> 45:56.000]  It helps explain why music and similar creative industries are so high churn,
+[45:56.000 --> 46:00.000]  how they chew up and spit out creators so quickly.
+[46:00.000 --> 46:03.000]  And we end up with this kind of bizarre distribution
+[46:03.000 --> 46:08.000]  of a lot of one-hit wonders and very few hitmakers.
+[46:08.000 --> 46:10.000]  Now I can imagine that some creators are going to say,
+[46:10.000 --> 46:15.000]  well, I have another hack around the conundrum that Justin is posing,
+[46:15.000 --> 46:20.000]  and the hack is to basically try and get initial success by being conventional
+[46:20.000 --> 46:22.000]  and then switch to being creative afterwards.
+[46:22.000 --> 46:24.000]  Does that work?
+[46:24.000 --> 46:27.000]  What my research would suggest is no, that wouldn't work,
+[46:27.000 --> 46:31.000]  that the path dependence gets triggered at the time of the initial hit
+[46:31.000 --> 46:35.000]  and that your portfolio becomes a carrier of history
+[46:35.000 --> 46:39.000]  that really kind of sticks with you for the rest of your career.
+[46:39.000 --> 46:40.000]  Can it be done?
+[46:40.000 --> 46:44.000]  Sure, it can be done, but the odds are really stacked against you
+[46:44.000 --> 46:46.000]  if you have a typical portfolio early in your career
+[46:46.000 --> 46:49.000]  because the industry is going to pass you by pretty quickly.
+[46:49.000 --> 46:51.000]  You're going to be known for that sound.
+[46:51.000 --> 46:55.000]  People are going to associate you with that particular milieu.
+[46:55.000 --> 47:00.000]  And as new sounds, new artists inevitably enter the marketplace,
+[47:00.000 --> 47:05.000]  you'll likely be left behind regardless of the effort that you put in.
+[47:06.000 --> 47:11.000]  Creative industries are marked by very high levels of change.
+[47:11.000 --> 47:16.000]  Audiences want what they want until they don't.
+[47:16.000 --> 47:21.000]  To put this another way, musicians and movie makers who have sustained success
+[47:21.000 --> 47:25.000]  are able to evolve with the tastes of their audience.
+[47:25.000 --> 47:29.000]  Romancing the Stone, for example, had a damsel in distress theme
+[47:29.000 --> 47:33.000]  that might not go over well with audiences today.
+[47:33.000 --> 47:37.000]  Back to the Future had stereotypical references to Libyan terrorists
+[47:37.000 --> 47:39.000]  that sound xenophobic today.
+[47:39.000 --> 47:43.000]  To be a successful artist over time, you have to change with the times,
+[47:43.000 --> 47:47.000]  and this is where having a fairly limited repertoire in your early work
+[47:47.000 --> 47:50.000]  can make it difficult to compete with new entrants
+[47:50.000 --> 47:52.000]  who are closer to the zeitgeist.
+[47:54.000 --> 47:56.000]  So what is a creator to do?
+[47:56.000 --> 48:00.000]  Stick to the conventional and run the risk of becoming a one-hit wonder?
+[48:00.000 --> 48:05.000]  Or try the novel and risk becoming a no-hit failure?
+[48:05.000 --> 48:09.000]  This is where the second dimension Justin studied may come in useful.
+[48:09.000 --> 48:13.000]  Novelty looks at how unusual the creator is.
+[48:13.000 --> 48:16.000]  Variety examined the creator's range.
+[48:16.000 --> 48:21.000]  One thing to keep in mind is that variety is a way to offset
+[48:21.000 --> 48:23.000]  some of the trade-off with novelty.
+[48:23.000 --> 48:27.000]  So if you come out with a really novel-sounding song,
+[48:27.000 --> 48:33.000]  but then you just do a whole album of songs that sound like that one novel song,
+[48:33.000 --> 48:37.000]  that's a portfolio that's high in novelty but low in variety.
+[48:37.000 --> 48:43.000]  And what's more optimal is to have, you know, that first album
+[48:43.000 --> 48:45.000]  or first two albums rate high in novelty,
+[48:45.000 --> 48:49.000]  so you want those songs to sound different from what's popular at the time,
+[48:49.000 --> 48:52.000]  but have a wide variety of novel songs.
+[48:52.000 --> 48:55.000]  So you want them to sound different in different ways.
+[48:55.000 --> 48:59.000]  And that's one way to try to overcome this thorny trade-off with novelty.
+[48:59.000 --> 49:01.000]  And so we see that with Zemeckis.
+[49:01.000 --> 49:07.000]  He has novel films early in his career, but they're very different from one another.
+[49:07.000 --> 49:11.000]  And so that increased the odds that any one would be a hit,
+[49:11.000 --> 49:13.000]  and indeed we saw that with Romancing the Stone,
+[49:13.000 --> 49:16.000]  that it was a highly novel film that ended up being a hit.
+[49:16.000 --> 49:18.000]  It makes logical sense.
+[49:18.000 --> 49:22.000]  Trying new things decreases your odds of initial success.
+[49:23.000 --> 49:28.000]  But trying lots of different new things can increase your odds of initial success.
+[49:28.000 --> 49:32.000]  If you throw a lot of different novel ideas at the wall,
+[49:32.000 --> 49:35.000]  the likelihood that one of them will stick goes up.
+[49:35.000 --> 49:39.000]  You can't completely offset the thorny trade-off with novelty,
+[49:39.000 --> 49:42.000]  but if you do a variety of novel things,
+[49:42.000 --> 49:46.000]  it's more likely that any one of them is going to be a hit and going to succeed,
+[49:46.000 --> 49:48.000]  and that's really what Zemeckis did.
